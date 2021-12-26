@@ -47,7 +47,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(931661076)
+ADMINS.append(768991544)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
